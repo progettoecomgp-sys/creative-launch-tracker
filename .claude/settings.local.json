@@ -11,7 +11,8 @@
       "Bash(gh:*)",
       "Bash(export PATH=\"$HOME/bin:$PATH\")",
       "Bash(git init:*)",
-      "Bash(git add:*)"
+      "Bash(git add:*)",
+      "Bash(git commit:*)"
     ]
   }
 }
