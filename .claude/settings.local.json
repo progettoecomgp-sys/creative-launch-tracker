@@ -1,0 +1,17 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(gh auth status:*)",
+      "Bash(brew install:*)",
+      "Bash(curl:*)",
+      "Bash(tar:*)",
+      "Bash(python3:*)",
+      "Bash(unzip:*)",
+      "Bash(sudo cp:*)",
+      "Bash(gh:*)",
+      "Bash(export PATH=\"$HOME/bin:$PATH\")",
+      "Bash(git init:*)",
+      "Bash(git add:*)"
+    ]
+  }
+}
